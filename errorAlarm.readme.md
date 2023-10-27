@@ -10,9 +10,7 @@ at different time intervals. It allows us to verify that the process complies wi
 
 Additional information:
 It's possible to adjust the number of errors you wish to receive and the time limit for email notifications using these parameters:
-errorThresholdForNotification: 
-  This parameter allows you to specify the desired quantity of errors. 
-  For example, if you want to receive notifications after only 5 errors, set it to 5.
-errorThresholdTimeForNotification: 
-  This parameter defines the time frame for error accumulation in milliseconds. 
-  If you want to receive notifications within a 30-second window, you can set it to 30,000 milliseconds.
+- errorThresholdForNotification: 
+ * This parameter allows you to specify the desired quantity of errors. For example, if you want to receive notifications after only 5 errors, set it to 5.
+- errorThresholdTimeForNotification: 
+ * This parameter defines the time frame for error accumulation in milliseconds. If you want to receive notifications within a 30-second window, you can set it to 30,000 milliseconds.
