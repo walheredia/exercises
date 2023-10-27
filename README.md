@@ -15,4 +15,4 @@ Replace `scriptName.js` with the name of the script you want to run, e.g., `urlP
 
 ## About `errorAlarm.js`
 
-The `errorAlarm.js` script also includes a dedicated README file, which provides more detailed information about the solution. Please refer to the `errorAlarm/readme` file for additional details.
+The `errorAlarm.js` script also includes a dedicated README file, which provides more detailed information about the solution. Please refer to the `errorAlarm.readme` file for additional details.
