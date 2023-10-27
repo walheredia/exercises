@@ -8,7 +8,7 @@ Please ensure you have [Node.js](https://nodejs.org/) installed on your system. 
 
 ## Running the Scripts
 
-To execute any of the scripts, open a terminal in the script's directory and run the following command:
+To execute any of the scripts, open a terminal in the script's directory and run the following command: `node scriptName.js`
 
 
 Replace `scriptName.js` with the name of the script you want to run, e.g., `urlParser.js`, `errorAlarm.js`, or `zoo.js`.
